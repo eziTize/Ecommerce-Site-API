@@ -24,3 +24,9 @@ Homestead.json
 
 # views & Js
 resources
+
+# Extras
+/database/*
+/public/*
+/routes/*
+/storage/*
